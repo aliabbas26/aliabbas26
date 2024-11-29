@@ -1,8 +1,11 @@
 # 💫 About Me:
-Hi 👋, I'm Ali Abbas
+Hi 👋, I'm Ali Abbas.
+✨I'm learning DSA and Web Development.
+
+[![](https://visitcount.itsvg.in/api?id=aliabbas26&icon=0&color=6)](https://visitcount.itsvg.in)
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliabbas026) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aliabbas026) 
 
 # 💻 Tech Stack:
@@ -16,7 +19,7 @@ Hi 👋, I'm Ali Abbas
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aliabbas26&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/aliabbas026) 
