@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hi 👋, I'm Ali Abbas.
-✨I'm learning DSA and Web Development.
+Hi 👋, I'm Ali Abbas; an aspiring Software Engineer.🚀
+🎓 Pursuing B.Tech in Artificial Intelligence and Data Science.
+💻 I'm learning DSA and Web Development.
+✨ Exploring AI/ML and Open-source.
+🤝 Open for tech discussion and collaboration.
 
 [![](https://visitcount.itsvg.in/api?id=aliabbas26&icon=0&color=6)](https://visitcount.itsvg.in)
 
@@ -19,10 +22,6 @@ Hi 👋, I'm Ali Abbas.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/aliabbas026) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
