@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Ali Abbas; an aspiring Software Engineer.🚀
+
 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science.
 
 💻 I'm learning DSA and Web Development.
