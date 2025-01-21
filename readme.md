@@ -1,8 +1,11 @@
 # 💫 About Me:
 Hi 👋, I'm Ali Abbas; an aspiring Software Engineer.🚀
 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science.
+
 💻 I'm learning DSA and Web Development.
+
 ✨ Exploring AI/ML and Open-source.
+
 🤝 Open for tech discussion and collaboration.
 
 [![](https://visitcount.itsvg.in/api?id=aliabbas26&icon=0&color=6)](https://visitcount.itsvg.in)
